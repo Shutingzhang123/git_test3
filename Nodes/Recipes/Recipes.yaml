@@ -48,7 +48,7 @@ Children:
       Type: PropertyType
       DataType: NodeId
       Value: {"IdType":0,"Id":0,"Namespace":-1}
-- Name: RecipeSchema2
+- Name: RecipeSchema3
   Type: RecipeSchema
   Children:
   - Name: Root
